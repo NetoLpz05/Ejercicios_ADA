@@ -6,7 +6,7 @@ public class Ejercicio01AnalisisDeAlgoritmos {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
-        // Ejercicio 1: Tiempo Cúbico O(n^3)
+        // Ejercicio 1: Tiempo Cúbico O(n^3) :)
         System.out.print("Ingrese un número para el ejercicio O(n^3): ");
         int n = scanner.nextInt();
         int contador = 0;
